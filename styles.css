@@ -1,0 +1,153 @@
+body{
+	background-color:#ffffff;
+}
+
+.Container{
+	position: absolute;
+	width:90%;
+	height: auto;
+	top:0px;
+	left:0px;
+	right:0px;
+	margin: 0 auto;
+}
+
+#headerSection{
+	width:100%;
+	height: 60px;
+	background-color: #2f3d46;
+	position: relative;
+}
+
+#gitLogo{
+	position: absolute;
+    width: 40px;
+    height: 40px;
+    padding: 9px 0px 0px 20px;
+
+}
+
+img{width: 100%; height: auto;}
+
+#homeTxt{
+	position: absolute;
+    width: 90%;
+    height: auto;
+    left: auto;
+    right: 0px;
+    text-align: center;
+    color: #ffffff;
+    padding: 18px 0px 0px 0px;
+    font-size: 17px;
+    letter-spacing: 2px;
+}
+
+#bodySection{
+	position: relative;
+    background-color: #c9d2c5;
+    width: 100%;
+    height: 500px;
+}
+
+#LeftContent{
+	position: absolute;
+    width: 35%;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+}
+
+#RightContent{
+	position: absolute;
+    width: 65%;
+    top: 0px;
+    right: 0px;
+    height: 100%;
+}
+
+#LContentBox1{
+	position: absolute;
+    width: 70%;
+    height: 90%;
+    top: 24px;
+    left: 0px;
+    right: 0px;
+    margin: 0 auto;
+}
+
+.boxRadius{
+	border-radius: 20px;
+	background-color: #353535;
+}
+
+#RContentBox1{
+	position: absolute;
+    width: 70%;
+    height: 8%;
+    top: 24px;
+    left: 0px;
+    right: 0px;
+    margin: 0 auto;
+}
+
+#SearchTxt{
+	    color: #ffffff;
+    letter-spacing: 1px;
+    padding: 9px 0px 0px 20px;
+    font-size: 17px;
+}
+
+
+#RContentBox2{
+	position: absolute;
+    width: 23%;
+    height: 20%;
+    top: 130px;
+    left: 0px;
+}
+
+#RContentBox3{
+	position: absolute;
+    width: 23%;
+    height: 20%;
+    top: 130px;
+    left: 230px;
+    right: auto;
+}
+
+#RContentBox4{
+	position: absolute;
+    width: 23%;
+    height: 20%;
+    top: 130px;
+    left: auto;
+    right: 40px;
+}
+
+#RContentBox5{
+	position: absolute;
+    width: 95%;
+    height: 30%;
+    top: auto;
+    left: 0px;
+    right: 0px;
+    bottom: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
